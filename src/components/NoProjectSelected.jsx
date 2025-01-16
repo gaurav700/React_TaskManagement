@@ -8,7 +8,7 @@ export default function NoProjectSelected({ onStartAddProject }) {
         className="w-16 h-16 object-contain mx-auto"
         alt="An empty task list"
       />
-      <h2 className="text-xl font-bold text-stone-500 mt-4 my-4 ">
+      <h2 className="text-xl font-bold text-stone-500 mt-4 my-4">
         {" "}
         No Project Selected{" "}
       </h2>
